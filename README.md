@@ -1,4 +1,4 @@
-Face=Key
+Face-Key
 
 In this project, we are securing and optimizing the authentication system on websites by adding an extra layer of security for auto filling the authentication forms by facial detection with liveliness detection feature.
 
